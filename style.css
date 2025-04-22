@@ -19,9 +19,12 @@ div {
 }
 .div-3 {
     background-color: #ffe8ec00;
-    width: 40%;
-    border-radius: 20px;
-    border-style: dotted;
+    background-image: url("divider.png");
+    background-repeat: repeat-x;
+    width: 90%;
+    height:fit-content;
+    border-radius: 30px;
+    margin-top: 10px;
 }
 .stampsleft{
     float: left;
