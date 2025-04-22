@@ -17,6 +17,12 @@ div {
     border-radius: 20px;
     border-style: dotted;
 }
+.div-3 {
+    background-color: #ffe8ec00;
+    width: 40%;
+    border-radius: 20px;
+    border-style: dotted;
+}
 .stampsleft{
     float: left;
     margin-left: 5%;
@@ -33,6 +39,7 @@ div {
     width: 110px; 
     
 }
+
 
 @font-face { font-family: bytebounce; src: url('bytebounce/ByteBounce.ttf'); } 
 @font-face { font-family: ocr; src: url('OCRAEXT.TTF'); } 
